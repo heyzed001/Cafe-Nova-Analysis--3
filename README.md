@@ -16,7 +16,7 @@ This project analyzes the Cave Nova sales dataset to evaluate business performan
 </p>
 <h2>FILE</h2>
 
-<a href="https://github.com/heyzed001/Cafe-Nova-Analysis--3/blob/main/Datasets_%20CafeNova%20Analysis.xlsx" target="_blank">
+<a href="github.com/heyzed001/Cafe-Nova-Analysis--3/blob/main/Datasets_%20CafeNova%20Analysis.xlsx" target="_blank">
   Cafe Nova Analysis
 
   Click on view raw to get the xlsx file
