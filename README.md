@@ -1,4 +1,4 @@
-<h1>CAFE NOVA SALES DASHBOARD(EXCEL)</h1>
+<h1>CAVE NOVA SALES DASHBOARD(EXCEL)</h1>
 
 <h2>Project Overview:</h2>
 
